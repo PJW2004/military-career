@@ -11,8 +11,16 @@
 
 마켓플레이스를 등록하면 Claude Code가 이 저장소에서 플러그인을 검색할 수 있게 됩니다.
 
+|명령어|인자|예시|
+|--|--|--|
+|marketplace add|소스(GitHub 경로, URL 등)|PJW2004/military-career|
+|amrketplace update|마켓플레이스 이름|military-career-marketplace|
+
 ```bash
 claude plugin marketplace add PJW2004/military-career
+```
+```bash
+claude plugin marketplace update military-career-marketplace
 ```
 
 ### 확인
