@@ -1,0 +1,10 @@
+{
+  "military-service-workplace": {
+    "command": "npx",
+    "args": ["-y", "military-service-workplace-mcp"]
+  },
+  "job-search": {
+    "command": "npx",
+    "args": ["-y", "job-search-mcp"]
+  }
+}
