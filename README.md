@@ -1,7 +1,7 @@
 # military-career
 
-[![Claude Code Plugin](https://img.shields.io/badge/Claude_Code-Plugin-blueviolet?logo=anthropic)](https://github.com/PJW2004/military-career)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code Plugin](https://img.shields.io/badge/Claude_Code-Plugin-blueviolet?logo=anthropic)](https://github.com/PJW2004/military-career)
 
 병무청 병역일터 API와 잡코리아/사람인을 연동하여, 병역특례 지정업체를 검색하고 해당 업체의 실제 채용공고까지 한 번에 확인할 수 있는 플러그인입니다.
 
