@@ -10,7 +10,7 @@
 ### 마켓플레이스 등록 (최초 1회)
 
 ```bash
-claude plugin marketplace add PJW2004/military-career-plugin
+claude plugin marketplace add PJW2004/military-career
 ```
 
 ### 플러그인 설치
