@@ -14,10 +14,7 @@
       "author": {
         "name": "PJW2004"
       },
-      "source": {
-        "source": "url",
-        "url": "https://github.com/PJW2004/military-career.git"
-      },
+      "source": "./",
       "category": "productivity",
       "tags": ["병역특례", "채용", "취업", "military-service", "job-search", "korea"]
     }
